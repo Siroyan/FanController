@@ -1,1 +1,2 @@
 # FanController
+これはArduinoを用いた自作PC用のファンコントローラーのプログラムです。
